@@ -1,3 +1,15 @@
+## Introduction	
+
+The code in this repo was cloned as part of the UDacity projects in the Deep Learning Course. The readme attached with the project is attached below verbatim. The code in the repo is the answer to the questions provided in the course. The notebook came with a lot of starter code.
+
+
+
+
+
+
+
+
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
